@@ -48,8 +48,15 @@ npm run dev
 
 If you're using TailwindCSS with Vite, make sure the following files exist and are properly configured:
 
-* tailwind.config.js
+`* tailwind.config.js`
 
-* postcss.config.js
+`* postcss.config.js`
 
 Include the Tailwind directives in src/index.css:
+
+```bash
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+```
