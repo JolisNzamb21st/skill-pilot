@@ -36,11 +36,12 @@
 Make sure you have [Node.js](https://nodejs.org) and npm installed.
 
 ```bash
-git clone https://github.com/yourusername/skillpilot.git
+git clone https://github.com/JolisNzamb21st/skillpilot.git
 cd skillpilot
 npm install
 npm run dev
 
+```
 ---
 
 ## 📦 Installation
